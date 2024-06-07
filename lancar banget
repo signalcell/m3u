@@ -1,0 +1,483 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBU3wp8WLxVD1yd8gFY9N6_u3aj7tn7P4YB4DsnxvS8Q.png" group-title="News",ABC Australia
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/84
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jtJFyxN5pNtehmG39OacXllCLqi9wRs305Ho_1TPxYgQ.png" group-title="News",Al Jazeera
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/85
+#EXTINF:-1 tvg-id="" tvg-name="Anhui TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gtrKvn8ve1DD3FdhK3dRV_sxHGX-XnVuvisY7bbFXniw.png" group-title="Movies",Anhui TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/40
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hPLEs_nMyKd_ZS4cLhXQARvtoPx83LAikGzhFT05-5aQ.png" group-title="Education",Animal Planet
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/112
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jCd5Rzodv1ICT8DGF28PS9.png" group-title="Kids",Animax
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/35
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQZp_jWYydw8EnTcOgL8EC4qepdHW4Ls23LdhvyN7Xvw.png" group-title="Kids",Aniplus
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/36
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jVUjbp9IzN-bToHy8mdUwy.png" group-title="Nasional",ANTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/15
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDvpSsndmOZKQuX8i_vdF6b69vL7NjIVuCJtEkdRqWow.png" group-title="Entertainment",Arirang
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/95
+#EXTINF:-1 tvg-id="" tvg-name="Asia Food Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gsl0duVr7plLsvfZ_1lQkHP9hCQktKvU24AKZ5RShPJA.png" group-title="Entertainment",Asia Food Network
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/99
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gKbpFX2cd8P_b6Hp5fQ94P.png" group-title="Movies",AXN
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/24
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hvElG72X1J6n0DV72OKPLf.png" group-title="Kids",Baby TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/31
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hFmmMOeSO3K_nA4exT7k7hWDRHDuCPXQY1Z7HALRH6ug.png" group-title="Education",BBC Earth
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/109
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ifOnMYftzRCUERGvrLpK9lJWme3gemSe-EwXe-fnZ9EA.png" group-title="News",BBC World News
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/88
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7isk_4PtUZDXy1TlEW4xkU09SbY5ylMBpy-705sF5iDqg.png" group-title="Sports",beIN Sports 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/70
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j_pkDvvQIe7TbERsxJkohSkjTbuJJ3nI-kzLBDOJfN0Q.png" group-title="Sports",beIN Sports 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/63255
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jdpHlknDxb7jwQ4sMTMoEvSAHxQpWJPu_aAePSTV4CtA.png" group-title="Sports",beIN Sports 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/69
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jI3716No-SdZmOZSbsqRxW34YMtxAAHdf5wnN04axYmg.png" group-title="News",Bloomberg
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/87
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="BN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jE2U9x5GhUJijGx8lUrI-TYtrtyZSLRTmooXd5ie936w.png" group-title="Nasional",BN Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/23
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hLemFI25fQ86Lwr46ZGnsIeENl5ZZ5iWeVYtlnQXMXQA.png" group-title="Kids",Boomerang
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/37
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jyEGekbxftQkeP7Lw-Vc8DlHefUg8plAjbUGpCW0kItA.png" group-title="Kids",Cartoon Network
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/34
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hfknwDC2Qge9aQjRwlplmBlJLjBxe4415M-dQxSgRTqQ.png" group-title="Movies",Celestial Classic Movies
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/41
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-name="Celestial Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jfVOVVW-1I4kv4MiPhFZHTV4pEghkhH6nBJ5jGp7KyJQ.png" group-title="Movies",Celestial Movies
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/56
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jH6FMoVC06ZmBBR_FkaoK0.png" group-title="News",CGTN
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/79
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gEd-B8NjnxI_CEFACMvLnrWfNDYXQkJiYLetGH28sJrw.png" group-title="Singapore",Channel 8
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/137
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hyyuU9-ktsxZdBSyflkt9EHDQHvz1HwWViuRbkllSHKw.png" group-title="News",Channel News Asia
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/80
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5VArsO4KiANUx9hd1zElrnDZp9FhE0EZ_WrJUXQFhsQ.png" group-title="Movies",Cinema World
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/51
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Kids" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j4D9Ks3_1wxXP1zO0OfJdazPX_LXUyoqrpYdpMmJQu2Q.png" group-title="Kids",Cinemachi Kids
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322215
+#EXTINF:-1 tvg-id="CINEMACHI MAX - [Channel 10].id" tvg-name="Cinemachi Max" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gC6Va9DtwdA4-j9JRfbMS1KiZFsWvJDj3bIpiG6kpZjg.png" group-title="Movies",Cinemachi Max
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322216
+#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7].id" tvg-name="Cinemachi TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gYVqryB-aMgw97tNbiT7WmecAy-Nm38_s5Bf6e3ElEbw.png" group-title="Movies",Cinemachi TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322217
+#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-name="Cinemachi XTRA" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hVIQTknJQfPnVGLOXomZ56ETI-vysK5sAUiE-dcJAwqA.png" group-title="Movies",Cinemachi XTRA
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322218
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_3raLvAHO5caeXvQdFPKKWaCP-KaQJDqjEN76eZOm0w.png" group-title="Movies",Cinemax
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/45
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7guM7tplN0FSOKDWg64BaT2.png" group-title="VIP Sports",Dazn 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/131
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hiU4FWp75X6F65FNK7mzoE.png" group-title="VIP Sports",Dazn 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/132
+#EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jHG1cYquuzEtKRNpiu7cZN.png" group-title="VIP Sports",Dazn F1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/133
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g9AnYQkNkp4HOsvg7SgNNT8XL28G-fChBSq28qjo5tcg.png" group-title="Education",Discovery Asia
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/111
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jS2qgSnJP387dVubqtz05hvywIlrBfo74SEpBe3BwmCw.png" group-title="Education",Discovery Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/114
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iqixo7w-aIVQZpy_4eIohsJqCHYhNa05uTa0HZxZR8iA.png" group-title="News",Euronews
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/77
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jCO5g0_fg1pNQkHvXMrjmcfphcMS9eS_4NJnGzCt_R6Q.png" group-title="VIP Sports",Eurosport 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/135
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jwDrnPG9L4gjnRrtECRYkCkLAQXlmM1SILv4GcLJqvgw.png" group-title="VIP Sports",Eurosport 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/136
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gG8uNsZb6vVM72flkKeCRKvsAlTIDS7yfjUcUa9svIEQ.png" group-title="Entertainment",Fashion TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/102
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight Secret" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j8_gNAxRM2Wt_M9-gJ37mH7syUVuDb1apjCIq2CARieqvPgZKrPhp2f4GtjEGP-rk.png" group-title="Entertainment",Fashion TV Midnight Secret
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/101
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iLAisxYBUT5B1EDhKE0ZKei1iPj3GsPULpyER0Pd-hpg.png" group-title="Sports",Fight Sports
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/62
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-name="FMN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQe00FNH8Zjkojta9sSuRnJ6EJk_fC_cJ-ut2xQbADDg.png" group-title="Movies",FMN Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/54
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i5VkenvvrlPO5bAcCrLCZ1Jlfuz-5B0ianjdklbAKbVA.png" group-title="News",Fox News
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/83
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="Nasional",GTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/11
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7io03_xXZAb6yXBWtTLCy84MluFj7Vg5XP8jjMCXZ8rXg.png" group-title="Education",History
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/113
+#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-name="HITS" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_Mt7yBz8rUKlb3tXiP6R0.png" group-title="Movies",HITS
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/53
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-name="IMC" tvg-logo="" group-title="Movies",IMC
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/324042
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jdcPBDFes7jtXIBo-MNqwqt1MPXuVFEm4QDZ24pjgQvw.png" group-title="Nasional",Indosiar
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/74
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="Nasional",iNews
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/12
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7joKEJJNuzUx4JA7r6zuUHvYBhRM8xSBtCVnQE6waA3lg.png" group-title="Entertainment",KBS World
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/96
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g2SfeeAuIF_ZFw4tGd9vSx.png" group-title="Kids",Kids TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/30
+#EXTINF:-1 tvg-id="KIX - [Channel 161].id" tvg-name="KiX" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hNeqc0mGGVeD7gpBRVbgQp.png" group-title="Movies",KiX
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/52
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g-THB7h7BUnHGfpSiUnN7ogmaFhcRrt9gehyZ76jvAEg.png" group-title="Nasional",Kompas TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/9
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jrUGonlZa60VUHuEH-fB4dJgrIRhIVoV-SVbphKowd3Q.png" group-title="Entertainment",Lifetime
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/97
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX8dS_iLSGC4B3JaPG52KHlPdc5vEyzYFljT2wr4eSGw.png" group-title="Education",Love Nature
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/110
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Magna Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hh3A6kFmTSKp14c8geDsujAdQtwUvUHIIgAf351m_5bA.png" group-title="Nasional",Magna Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/22
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Mentari" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="Nasional",Mentari
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/7
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hHfCfjB6SaLNKHniaNLCLKM-3-PPQsGMtaNsXl3KTrYw.png" group-title="Nasional",Metro TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/21
+#EXTINF:-1 tvg-id="" tvg-name="Sportstars 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ir42X1odqXSadtcPggHN1PixbuuX60dI-sHVeOyjTLOg.png" group-title="Sports",Sportstars 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/60
+#EXTINF:-1 tvg-id="" tvg-name="Sportstars 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gK1Xe9Jl_pbUsGAMM2ryWaBxwZCSlLXs6ZCvVWYMLgfA.png" group-title="Sports",Sportstars 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/57
+#EXTINF:-1 tvg-id="" tvg-name="Sportstars 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hLI9b_oyw02DUSNi1l4EU8wcgr7TkZlzEp7t6uIjR8Pg.png" group-title="Sports",Sportstars 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/59
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="Nasional",MNC TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/10
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7igYlYkhxSExeSEmN3f-bgi.png" group-title="Nasional",Moji
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/6
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iu4fF9thGJ0KJ4JbQpUYrj.png" group-title="Music",MTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/108
+#EXTINF:-1 tvg-id="" tvg-name="Muadz TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jbxc-JAcAvsPveIbfEonHkOEaNAFTQIxQb03ocp-f_wA.png" group-title="Religi",Muadz TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/118
+#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7idXoDwRmMtE9Aue8IaSprlDi5FircTDGUpoLP9I5rgpA.png" group-title="Music",Music TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/106
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-name="My Cinema Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX6hn3cogLP3TdRRyg1YSKdjadfokOiCn2MzfCGplF7A.png" group-title="Movies",My Cinema Asia
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322222
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-name="My Family Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gElzWtn6D1imOXjZv0xPkg2twWf2_aguUGmGCAZLMgwA.png" group-title="Movies",My Family Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322223
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jeqi1hSMU7PeAd9uUBEWAs.png" group-title="Kids",My Kidz
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322224
+#EXTINF:-1 tvg-id="" tvg-name="NaDoo Korean" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7izxOMLN4yxfp_FcGxylVsjEFnQgz4MWFtH0NldfVpI5Q.png" group-title="Entertainment",NaDoo Korean
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322225
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iYAz8MN5EGPUg02b79J-jk.png" group-title="VIP Sports",NBA TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/134
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hmWtWvK6eSOPYBZGzRGX8V.png" group-title="Nasional",Net TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/14
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jieG18ab-FhXRTiMmmM38MX6ekB9nBab4bArxPW89z1w.png" group-title="News",NHK World
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/89
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jZ9WE9ZDfDw8Uqawdqom9m.png" group-title="Kids",Nick Jr
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/32
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hf4mAzyBo5TXyYvhSaamq-ZcbWm5zVVJPP-P95JmPBHQ.png" group-title="Kids",Nickelodeon
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/33
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="Nasional",RCTI
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/13
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j8NmIbtjgBnobeawVoxg1L0RCNaKr53v5FZ4-iJocbdA.png" group-title="Sports",Red Bull TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/64
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gGOBvK2WRm-3lrM_ZKDOkxbPn_wciqjIAk76FgVRVn8A.png" group-title="Entertainment",Rock Action
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322220
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBu7HkaPuSLCNs3PxDqSjALfaTPdXwM9wc8hIVpeDOCw.png" group-title="Entertainment",Rock Entertainment
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322221
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hb4j_Dc8iB3ODk4FWN_ny_Y7FGWooTXKDVEc1p3EryAg.png" group-title="Religi",Rodja TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/119
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j9XIvWp6iMr_cQnFE_Fogh.png" group-title="Nasional",RTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/8
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="Nasional",SCTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/5
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jvd0oNdc_9EP9b3VhrhQj4xA9cRaWvF8LbTrgbHZ9Kbw.png" group-title="Sports",Soccer Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/61
+#EXTINF:-1 tvg-id="" tvg-name="Sony Gem" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hx_9QmtC8ZHytZqSLEbHQLfz1OBIe6snFW69_Wo6k-Tw.png" group-title="Entertainment",Sony Gem
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/105
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gy8TvjdtOvsHBQf6xV-m6eOClSsYg5t3c32XE6QPNTrw.png" group-title="Entertainment",Sony One
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/98
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g3jolDO6NqapUymAZwCMoc.png" group-title="Sports",SPO TV 1 ID
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/66
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g3jolDO6NqapUymAZwCMoc.png" group-title="Sports",SPO TV 1 MY
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/58442
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hciFe6p804pukrvM329k2j.png" group-title="Sports",SPO TV 2 ID
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/63
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hciFe6p804pukrvM329k2j.png" group-title="Sports",SPO TV 2 MY
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/58443
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hMvPAR7tP_htnHwVLhhWHU.png" group-title="Singapore",Suria
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/139
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jc8EtgA_YyEsMv-bX94rq_9Mkf_Umr3d3o5hvKAwdhOQ.png" group-title="Sports",Tennis Channel
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/67
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gofFaIlui98OthoFI35qTV.png" group-title="Movies",Thrill
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/55
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5RQVYA_PjX0vEkfnoSFQK.png" group-title="Entertainment",TLC
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/100
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jt74RPV8dEtrzojpQ6M_8o.png" group-title="Nasional",Trans 7
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/1
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j0w0-RJv_FxPkjakUr_CLn-cEQxBacd173AJpK_UXCvA.png" group-title="Nasional",Trans TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/2
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gNj-GnxHawFJ-L5iLOLTYn.png" group-title="TV Daerah",TVKU
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/145
+#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iSH_LiepCLaG_QUwxpwwmT.png" group-title="Religi",TVMU
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/116
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i2LvoW2ChMRDFxKYv34Kxl.png" group-title="Entertainment",TvN
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/104
+#EXTINF:-1 tvg-id="tvN - [Channel 158].id" tvg-name="TvN Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gzumxsE_hhdD9cZuz4kM-CF8o9A4kemcsL43u4R1yn_Q.png" group-title="Movies",TvN Movies
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/49
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TVOne" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i6kmdCTWkXI4s6IeiU9qCj.png" group-title="Nasional",TVOne
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/19
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI Nasional" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jhGWKtXAIuKEq___xiVMpt.png" group-title="Nasional",TVRI Nasional
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/17
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iqYYzc_LlvBi68phWgsMbQid9K4N1XcVkvHmrOl6TPLA.png" group-title="Singapore",Vasantham
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/140
+#EXTINF:-1 tvg-id="Vision Prime - [Channel 94].id" tvg-name="Vision Prime" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iAjfBp-96o4SPV-zyHHtzJMbU0RBUaGytSCoaVSDzaKg.png" group-title="Nasional",Vision Prime
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/72
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h1icZwBQA8BXmcnbLJ3Pnr.png" group-title="Nasional",VTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/16
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j1AFglxMc8-wmVJpXsoSk4uZ2Nq8ebjxg-8Mobb91JiA.png" group-title="Movies",Warner TV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/48
+#EXTINF:-1 tvg-id="" tvg-name="ZeeBioskop" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDwdw1dYGtCOI5s3qmf3HkDlonCl06Abf-XJtLcg3dcg.png" group-title="Movies",ZeeBioskop
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/44
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="BTV" tvg-logo="" group-title="Nasional",BTV
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/20
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ghCR_bdclWW3BlAI4PWJ0m.png" group-title="VIP Sports",Astro Supersport 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/126
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j9zvgcZ2SHyUJklWMIXnJd.png" group-title="VIP Sports",Astro Supersport 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/125
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gXP7NL1hQsHGlfr7F2wxhI.png" group-title="VIP Sports",Astro Supersport 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/123
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gXP7NL1hQsHGlfr7F2wxhI.png" group-title="VIP Sports",Astro Supersport 4
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/124
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_468dZ8vKwDYXhoNtKQFxuBvn0NorE5VVCwkmu_Y9ZQ.png" group-title="VIP Sports",Eleven Sport 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/167
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_468dZ8vKwDYXhoNtKQFx2y16y0xqHsfp6pNVTPKH0Q.png" group-title="VIP Sports",Eleven Sport 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/166
+#EXTINF:-1 tvg-id="" tvg-name="Sportstars 4" tvg-logo="" group-title="Sports",Sportstars 4
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/324553
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jFGmbow7nvID-g0gHLI-RH1R3TGoV3YUNix8iFBfMh4Q.png" group-title="VIP Sports",NFL Network
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/162
+#EXTINF:-1 tvg-id="" tvg-name="Play Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jFVnletyhdIlojuKIoM2ORFWvTdnVxOgTN2U01rxJqfg.png" group-title="VIP Sports",Play Sport 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/165
+#EXTINF:-1 tvg-id="" tvg-name="Play Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hWixY5ZCEbVp9KH3orrM_z-hrkZibGZtZ8oG-U8-WLOw.png" group-title="VIP Sports",Play Sport 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/164
+#EXTINF:-1 tvg-id="" tvg-name="Play Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jcXCAm_g52LRrqsv08f9WD600MltxEq7M0FVYW4f75iA.png" group-title="VIP Sports",Play Sport 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/163
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MotoGP" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j2aG43xZ8UhCl2p3hqiJ7K3E7apm342cXOQ9OSw-o8Zg.png" group-title="VIP Sports",Sky Sports MotoGP
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1" tvg-logo="" group-title="VIP Sports",SSC 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322232
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2" tvg-logo="" group-title="VIP Sports",SSC 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322233
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3" tvg-logo="" group-title="VIP Sports",SSC 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322234
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4" tvg-logo="" group-title="VIP Sports",SSC 4
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322235
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5" tvg-logo="" group-title="VIP Sports",SSC 5
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322236
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hVn7-jtWUBk881juJnZ5hQx1K18_NH-rZsQEZVXVv2lw.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 1
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322190
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hFMdKeVEh_3_q5t2FQoSqOv81JFuYHkd_icCNrhewYDg.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 2
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322191
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hSjXK7-mMzeaZn4dDwn0sMV14bmTJ8-9vM-fU1VFr-QQ.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 3
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322192
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 4" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jIldzF-IgzZ420E6esG2N-Q3EEt86yfmGXozt_6wPJ-A.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 4
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322193
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 5" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hDJQ8ay_Dhr-VdaRGFhK5ant5x_yWQJOLbunXx8a1C8A.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 5
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322194
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 6" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hWNon5qeGX9q7qsrQP05jcC_QJfKqlYiqOkHpUu7i2PQ.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 6
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322195
+#EXTINF:-1 tvg-id="" tvg-name="[Bein AIS] Bein Sports 7" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_p5Vmndk0EUpiu5PcdzLmhWLhwA212qtdM0BvxwPu7Q.png" group-title="BeiN AIS",[Bein AIS] Bein Sports 7
+https://iptv.lancartech.co.id:443/sedapbanget/sedapbanget/322196
+#EXTINF:-1 tvg-id="6504" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6504.png" group-title="sports rusia",TNT SPORTS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
+#EXTINF:-1 tvg-id="6505" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6505.png" group-title="sports rusia",TNT SPORTS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19052/index.m3u8
+#EXTINF:-1 tvg-id="6506" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6506.png" group-title="sports rusia",TNT SPORTS 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19053/index.m3u8
+#EXTINF:-1 tvg-id="6507" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6507.png" group-title="sports rusia",TNT SPORTS 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19054/index.m3u8
+#EXTINF:-1 tvg-id="6508" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6508.png" group-title="sports rusia",TNT SPORTS 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19055/index.m3u8
+#EXTINF:-1 tvg-id="6509" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6509.png" group-title="sports rusia",ESPN HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19061/index.m3u8
+#EXTINF:-1 tvg-id="6511" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6511.png" group-title="sports rusia",ESPN2 HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19058/index.m3u8
+#EXTINF:-1 tvg-id="6510" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6510.png" group-title="sports rusia",ESPN EXTRA HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19057/index.m3u8
+#EXTINF:-1 tvg-id="6513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6513.png" group-title="sports rusia",ESPN BRASIL HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19059/index.m3u8
+#EXTINF:-1 tvg-id="6513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6513.png" group-title="sports rusia",ESPN Brasil
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19060/index.m3u8
+#EXTINF:-1 tvg-id="3880" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/3880.png" group-title="sports rusia",beIN Sports Max 1 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19062/index.m3u8
+#EXTINF:-1 tvg-id="6519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6519.png" group-title="sports rusia",beIN Sports Max 2 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19063/index.m3u8
+#EXTINF:-1 tvg-id="2618" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/2618.png" group-title="sports rusia",beIN Sports Haber HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19064/index.m3u8
+#EXTINF:-1 tvg-id="3880" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/3880.png" group-title="sports rusia",beIN Sports Max 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19065/index.m3u8
+#EXTINF:-1 tvg-id="6519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6519.png" group-title="sports rusia",beIN Sports Max 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19066/index.m3u8
+#EXTINF:-1 tvg-id="6525" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6525.png" group-title="sports rusia",TRT SPOR HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19067/index.m3u8
+#EXTINF:-1 tvg-id="6521" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6521.png" group-title="sports rusia",TRT SPOR 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19068/index.m3u8
+#EXTINF:-1 tvg-id="6522" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6522.png" group-title="sports rusia",A SPOR HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19069/index.m3u8
+#EXTINF:-1 tvg-id="6523" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6523.png" group-title="sports rusia",S SPORT + PLUS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19070/index.m3u8
+#EXTINF:-1 tvg-id="6524" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6524.png" group-title="sports rusia",S SPORT + PLUS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19071/index.m3u8
+#EXTINF:-1 tvg-id="6526" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6526.png" group-title="sports rusia",SPOR SMART 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19073/index.m3u8
+#EXTINF:-1 tvg-id="6527" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6527.png" group-title="sports rusia",TiViBUSPOR 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19074/index.m3u8
+#EXTINF:-1 tvg-id="6528" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6528.png" group-title="sports rusia",TiViBUSPOR 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19075/index.m3u8
+#EXTINF:-1 tvg-id="6529" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6529.png" group-title="sports rusia",TiViBUSPOR 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19076/index.m3u8
+#EXTINF:-1 tvg-id="6532" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6532.png" group-title="sports rusia",Sky Sport Serie A
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19104/index.m3u8
+#EXTINF:-1 tvg-id="6537" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6537.png" group-title="sports rusia",SportItalia Solo Calcio HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19109/index.m3u8
+#EXTINF:-1 tvg-id="6538" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6538.png" group-title="sports rusia",SportItalia Motori HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19110/index.m3u8
+#EXTINF:-1 tvg-id="6539" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6539.png" group-title="sports rusia",SKY SUPER TENNIS
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19136/index.m3u8
+#EXTINF:-1 tvg-id="6540" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6540.png" group-title="sports rusia",Sport2U Tv
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19112/index.m3u8
+#EXTINF:-1 tvg-id="6541" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6541.png" group-title="sports rusia",Sport Tv Pistoia
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19113/index.m3u8
+#EXTINF:-1 tvg-id="6543" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6543.png" group-title="sports rusia",Eurosport 1 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19115/index.m3u8
+#EXTINF:-1 tvg-id="6544" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6544.png" group-title="sports rusia",Eurosport 2 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19116/index.m3u8
+#EXTINF:-1 tvg-id="6545" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6545.png" group-title="sports rusia",RTV Sport (San Marino)
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19117/index.m3u8
+#EXTINF:-1 tvg-id="6555" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6555.png" group-title="sports rusia",SKY SPORT 24
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19127/index.m3u8
+#EXTINF:-1 tvg-id="6556" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6556.png" group-title="sports rusia",SKY SPORT ARENA
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19128/index.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6557.png" group-title="sports rusia",SKY SPORT CALCIO
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19129/index.m3u8
+#EXTINF:-1 tvg-id="6558" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6558.png" group-title="sports rusia",SKY SPORT COLLECTION
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19130/index.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6559.png" group-title="sports rusia",SKY SPORT FOOTBALL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19131/index.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6560.png" group-title="sports rusia",SKY SPORT GOLF
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19132/index.m3u8
+#EXTINF:-1 tvg-id="6561" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6561.png" group-title="sports rusia",SKY SPORT MOTOGP
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19133/index.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6562.png" group-title="sports rusia",SKY SPORT NBA
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19134/index.m3u8
+#EXTINF:-1 tvg-id="6566" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6566.png" group-title="sports rusia",Fox Sports South
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19138/index.m3u8
+#EXTINF:-1 tvg-id="6567" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6567.png" group-title="sports rusia",FOX SPORTS ARIZONA HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19139/index.m3u8
+#EXTINF:-1 tvg-id="6568" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6568.png" group-title="sports rusia",FOX SPORTS FLORIDA HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19140/index.m3u8
+#EXTINF:-1 tvg-id="6569" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6569.png" group-title="sports rusia",FOX SPORTS HOUSTON HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19141/index.m3u8
+#EXTINF:-1 tvg-id="6570" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6570.png" group-title="sports rusia",FOX SPORTS PRIME TICKET HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19142/index.m3u8
+#EXTINF:-1 tvg-id="6571" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6571.png" group-title="sports rusia",FOX SPORTS SOUTHWEST PLUS HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19143/index.m3u8
+#EXTINF:-1 tvg-id="6572" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6572.png" group-title="sports rusia",FOX SPORTS SPORTSTIME OHIO HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19144/index.m3u8
+#EXTINF:-1 tvg-id="6573" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6573.png" group-title="sports rusia",FOX SPORTS SUN HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19145/index.m3u8
+#EXTINF:-1 tvg-id="6574" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6574.png" group-title="sports rusia",FOX SPORTS OKLAHOMA HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19146/index.m3u8
+#EXTINF:-1 tvg-id="6575" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6575.png" group-title="sports rusia",Bally Sports Great Lakes
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19149/index.m3u8
+#EXTINF:-1 tvg-id="6576" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6576.png" group-title="sports rusia",BALLY SPORTS SUN
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19150/index.m3u8
+#EXTINF:-1 tvg-id="6577" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6577.png" group-title="sports rusia",BALLY SPORTS SOUTHEAST CAROLINAS
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19151/index.m3u8
+#EXTINF:-1 tvg-id="6578" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6578.png" group-title="sports rusia",BALLY SPORTS NORTH
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19152/index.m3u8
+#EXTINF:-1 tvg-id="6579" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6579.png" group-title="sports rusia",Bally SPORTS MIDWEST
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19153/index.m3u8
+#EXTINF:-1 tvg-id="6580" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6580.png" group-title="sports rusia",Espn News HD USA
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19154/index.m3u8
+#EXTINF:-1 tvg-id="6581" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6581.png" group-title="sports rusia",ESPN 2 HD USA
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19155/index.m3u8
+#EXTINF:-1 tvg-id="6582" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6582.png" group-title="sports rusia",ESPN USA
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
+#EXTINF:-1 tvg-id="6583" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6583.png" group-title="sports rusia",ELEVEN SPORTS 1 UHD PT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19158/index.m3u8
+#EXTINF:-1 tvg-id="6586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6586.png" group-title="sports rusia",Viasat Sport Ultra HD DK
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19163/index.m3u8
+#EXTINF:-1 tvg-id="6588" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6588.png" group-title="sports rusia",ESPN DEPORTES HD ES
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19166/index.m3u8
+#EXTINF:-1 tvg-id="6534" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6534.png" group-title="sports rusia",Rai Sport + HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19106/index.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6585.png" group-title="sports rusia",SPORT TV 1 4K UHD PT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19161/index.m3u8
+#EXTINF:-1 tvg-id="6533" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6533.png" group-title="sports rusia",Sky Sport F1 IT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19105/index.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6584.png" group-title="sports rusia",BENFICA 4K TV UHD PT
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19160/index.m3u8
+#EXTINF:-1 tvg-id="6587" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6587.png" group-title="sports rusia",BarÃ§a TV
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19165/index.m3u8
+#EXTINF:-1 tvg-id="6687" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6687.png" group-title="sports rusia",ESPN 3 HD NL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19203/index.m3u8
+#EXTINF:-1 tvg-id="6684" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6684.png" group-title="sports rusia",RMC SPORT 4
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19200/index.m3u8
+#EXTINF:-1 tvg-id="6685" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6685.png" group-title="sports rusia",ESPN 1 HD NL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19201/index.m3u8
+#EXTINF:-1 tvg-id="6686" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6686.png" group-title="sports rusia",ESPN 2 HD NL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19202/index.m3u8
+#EXTINF:-1 tvg-id="6688" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6688.png" group-title="sports rusia",ESPN 4 HD NL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19204/index.m3u8
+#EXTINF:-1 tvg-id="6850" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6850.png" group-title="sports rusia",BOX Be On Edge Live 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19422/index.m3u8
+#EXTINF:-1 tvg-id="6851" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6851.png" group-title="sports rusia",BOX Be On Edge Live 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19423/index.m3u8
+#EXTINF:-1 tvg-id="6852" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6852.png" group-title="sports rusia",BOX Be On Edge HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19424/index.m3u8
+#EXTINF:-1 tvg-id="3058" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/3058.png" group-title="sports rusia",CANAL+ SPORT 2 PL
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/6099/index.m3u8
+#EXTINF:-1 tvg-id="7233" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7233.png" group-title="sports rusia",Sporsmart HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20060/index.m3u8
+#EXTINF:-1 tvg-id="7253" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7253.png" group-title="sports rusia",BT Sports 4k UHD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20058/index.m3u8
+#EXTINF:-1 tvg-id="7234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7234.png" group-title="sports rusia",Sporsmart 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20059/index.m3u8
+#EXTINF:-1 tvg-id="7235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7235.png" group-title="sports rusia",Q Sport HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20061/index.m3u8
+#EXTINF:-1 tvg-id="7239" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7239.png" group-title="sports rusia",Setanta Sports 1 Qazaqstan HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20065/index.m3u8
+#EXTINF:-1 tvg-id="7793" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7793.png" group-title="sports rusia",Silk 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20146/index.m3u8
+#EXTINF:-1 tvg-id="7791" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7791.png" group-title="sports rusia",Silk 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20144/index.m3u8
+#EXTINF:-1 tvg-id="7792" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7792.png" group-title="sports rusia",Silk 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20145/index.m3u8
+#EXTINF:-1 tvg-id="7890" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7890.png" group-title="sports rusia",Box Sport Cast 1 Live
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20166/index.m3u8
+#EXTINF:-1 tvg-id="7891" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7891.png" group-title="sports rusia",Box Sport Cast 2 Live
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20167/index.m3u8
+#EXTINF:-1 tvg-id="7892" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7892.png" group-title="sports rusia",Box Sport Cast 3 Live
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20168/index.m3u8
+#EXTINF:-1 tvg-id="7893" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7893.png" group-title="sports rusia",Box Sport Cast 4 Live
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20169/index.m3u8
+#EXTINF:-1 tvg-id="7894" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/7894.png" group-title="sports rusia",Box Sport Cast 5 Live
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/20170/index.m3u8
+
+
+#####liga-spanyol#####
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="Liga Spanyol",LaLiga TV Bar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i7+zwYjCuAOx+CDYEmftqw", "kid":"rypleU5XSn+u/ciTe6AHvg" } ], "type":"temporary" }
+https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
+
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | La Liga TV" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga Spanyol",La Liga TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa3de450728e50edbcd47ab039200f6e":"4b1b1b8eb7585295fc6c9ad054bac647","3884d18d872d50b59ceaf03530cddbcc":"45f5ad675bf4d9056042a90123302c0f","3896c18a4fcd54efabaf9b1bdb1830f5":"e3bf13c8d463af5e5bb567a1c3ea1725"}
+#https://tvup-live.akamaized.net/laligatv/laligatv.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga Spanyol" ,LA LIGA PREMIER- PARAMOUNT+ 
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 group-title="Liga Spanyol" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+##EXTINF:-1 tvg-name="" tvg-id="" group-title="Liga Spanyol" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",L'Equipe 1 
+##https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+##EXTINF:-1 tvg-name="" tvg-id="" group-title="Liga Spanyol" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 2 
+##https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga Spanyol" , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+
+
+
+
+
